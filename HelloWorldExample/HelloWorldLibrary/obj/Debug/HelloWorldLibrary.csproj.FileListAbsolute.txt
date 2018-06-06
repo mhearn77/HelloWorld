@@ -1,0 +1,6 @@
+C:\Users\matth\Desktop\HelloWorldTest\HelloWorldLibrary\bin\Debug\HelloWorldLibrary.dll
+C:\Users\matth\Desktop\HelloWorldTest\HelloWorldLibrary\bin\Debug\HelloWorldLibrary.pdb
+C:\Users\matth\Desktop\HelloWorldTest\HelloWorldLibrary\obj\Debug\HelloWorldLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\HelloWorldTest\HelloWorldLibrary\obj\Debug\HelloWorldLibrary.dll
+C:\Users\matth\Desktop\HelloWorldTest\HelloWorldLibrary\obj\Debug\HelloWorldLibrary.pdb
+C:\Users\matth\Desktop\HelloWorldTest\HelloWorldLibrary\obj\Debug\HelloWorldLibrary.csprojAssemblyReference.cache
